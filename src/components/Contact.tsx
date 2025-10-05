@@ -24,10 +24,10 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/ajeetpandey", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com/in/ajeet-pandey", label: "LinkedIn" },
-    { icon: Mail, href: "mailto:ajeet@example.com", label: "Email" },
-    { icon: Phone, href: "tel:+919876543210", label: "+91 98765 43210" }
+    { icon: Github, href: "https://github.com/ajeetprakash27", label: "GitHub" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/ajeet-prakash-pandey-061907259/", label: "LinkedIn" },
+    { icon: Mail, href: "imajeetpandey27@gmail.com", label: "Email" },
+    { icon: Phone, href: "tel:+918904252834", label: "+91 98765 43210" }
   ];
 
   return (
