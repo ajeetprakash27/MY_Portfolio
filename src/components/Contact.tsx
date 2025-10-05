@@ -3,14 +3,14 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent } from "@/components/ui/card";
-import { Github, Linkedin, Gmail, Phone } from "lucide-react";
+import { Github, Linkedin, Mail, Phone } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const Contact = () => {
   const { toast } = useToast();
   const [formData, setFormData] = useState({
     name: "",
-    gmail: "",
+    mail: "",
     message: ""
   });
 
@@ -26,7 +26,7 @@ const Contact = () => {
   const socialLinks = [
     { icon: Github, href: "https://github.com/ajeetprakash27", label: "GitHub" },
     { icon: Linkedin, href: "https://www.linkedin.com/in/ajeet-prakash-pandey-061907259/", label: "LinkedIn" },
-    { icon: Gmail, href: "imajeetpandey27@gmail.com", label: "Gmail" },
+    { icon: Mail, href: "imajeetpandey27@gmail.com", label: "Mail" },
     { icon: Phone, href: "tel:+918904252834", label: "+91 8904252834" }
   ];
 
