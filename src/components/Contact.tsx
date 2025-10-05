@@ -10,7 +10,7 @@ const Contact = () => {
   const { toast } = useToast();
   const [formData, setFormData] = useState({
     name: "",
-    mail: "",
+    email: "",
     message: ""
   });
 
