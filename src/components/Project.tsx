@@ -14,6 +14,7 @@ const Portfolio = () => {
       description: "A comprehensive airline reservation system with database management capabilities, enabling seamless booking, flight scheduling, and passenger data management.",
       image: airlineImage,
       technologies: ["PHP", "MySQL", "JavaScript", "HTML/CSS"],
+      tools: ["VS Code"],
       features: [
         "Real-time flight availability checking",
         "Secure booking and payment processing",
@@ -26,6 +27,7 @@ const Portfolio = () => {
       description: "An AI-powered face recognition system using computer vision algorithms to detect and identify human faces in real-time with high accuracy.",
       image: faceRecognitionImage,
       technologies: ["Python", "OpenCV", "Machine Learning"],
+       tools: ["Jupyter Notebook"],
       features: [
         "Real-time face detection and tracking",
         "Face recognition with trained models",
