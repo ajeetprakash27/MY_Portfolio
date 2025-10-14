@@ -35,8 +35,8 @@ const Experience = () => {
       title: "Python Programming",
       issuer: "Udemy",
       date: "2025"
-    }
-       {
+    },
+      {
       title: "Artificial Intelligence",
       issuer: "LinkedIn Learning",
       date: "2025"
