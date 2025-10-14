@@ -36,11 +36,6 @@ const Experience = () => {
       issuer: "Udemy",
       date: "2025"
     }
-     {
-      title: "Mastercard - Cybersecurity Job Simulation",
-      issuer: "Forage",
-      date: "2024"
-    },
        {
       title: "Artificial Intelligence",
       issuer: "LinkedIn Learning",
