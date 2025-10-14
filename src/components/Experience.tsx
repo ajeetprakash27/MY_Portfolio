@@ -26,6 +26,11 @@ const Experience = () => {
       issuer: "HackerRank",
       date: "2025"
     },
+    {
+      title: "Cognizant - Agile Methodology Job Simulation",
+      issuer: "Forage",
+      date: "2024"
+    },
      {
       title: "Microsoft Copilot: The Art of Prompt Writing",
       issuer: "LinkedIn",
