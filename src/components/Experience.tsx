@@ -46,11 +46,6 @@ const Experience = () => {
       issuer: "LinkedIn Learning",
       date: "2025"
     },
-     {
-      title: "Cognizant - Agile Methodology Job Simulation",
-      issuer: "Forage",
-      date: "2024"
-    },
   ];
 
   return (
