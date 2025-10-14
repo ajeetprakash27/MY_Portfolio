@@ -19,17 +19,12 @@ const Experience = () => {
     {
       title: "Microsoft Azure AI Essentials Professional Certificate",
       issuer: "Microsoft",
-      date: "2024"
+      date: "2025"
     },
      {
       title: "MySQL",
       issuer: "HackerRank",
       date: "2025"
-    },
-    {
-      title: "Cognizant - Agile Methodology Job Simulation",
-      issuer: "Forage",
-      date: "2024"
     },
      {
       title: "Microsoft Copilot: The Art of Prompt Writing",
@@ -37,25 +32,25 @@ const Experience = () => {
       date: "2025"
     },
      {
+      title: "Python Programming",
+      issuer: "Udemy",
+      date: "2025"
+    }
+     {
       title: "Mastercard - Cybersecurity Job Simulation",
       issuer: "Forage",
       date: "2024"
     },
-      {
-      title: "Accenture North America - Data Analytics and Visualization Job Simulation",
+       {
+      title: "Artificial Intelligence",
+      issuer: "LinkedIn Learning",
+      date: "2025"
+    },
+     {
+      title: "Cognizant - Agile Methodology Job Simulation",
       issuer: "Forage",
       date: "2024"
     },
-    {
-      title: "Artificial Intelligence",
-      issuer: "LinkedIn Learning",
-      date: "2024"
-    },
-    {
-      title: "Python Programming",
-      issuer: "Udemy",
-      date: "2023"
-    }
      {
       title: "Cognizant - Agile Methodology Job Simulation",
       issuer: "Forage",
